@@ -1,0 +1,19 @@
+ul li{
+    list-style-type: none;
+    padding: 20px;
+    margin-left: -35px;
+    margin-top: 50px;
+  
+}
+ul li:hover{
+    background-color: orange;
+    color: white;
+}
+.nav{
+    background-color: beige;
+    color: black; 
+    float: left;
+    padding: 20px;
+    height: 85vh;
+    width: 200px;
+}

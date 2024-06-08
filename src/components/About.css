@@ -1,0 +1,8 @@
+.image:hover{
+    opacity: 80%;
+    box-shadow: 5px 10px 5px black;
+}
+h1:hover{
+    text-transform: uppercase;
+    color:darkcyan;
+}
